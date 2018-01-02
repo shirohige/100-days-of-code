@@ -8,3 +8,5 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Monday, 2018].
 Started to solve this problem from HackerRank:- https://www.hackerrank.com/challenges/matrix-rotation-algo/problem
 
 ### R1D2
+
+Completed a small part in the above matrix rotation problem.
